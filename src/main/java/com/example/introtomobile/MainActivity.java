@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("name", user_name.getText().toString());
         Log.i("pw", pass_word.getText().toString());
 
-        Toast.makeText("login info", user_name.getText().toString(), Toast.LENGTH_SHORT.);
+
 
     }
 
